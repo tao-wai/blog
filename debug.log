@@ -1,5 +1,5 @@
-date: 2014-03-04 21:10:19.754
-argv: node C:\Users\face\AppData\Roaming\npm\node_modules\hexo\bin\hexo server
+date: 2014-03-09 20:35:13.497
+argv: node C:\Users\face\AppData\Roaming\npm\node_modules\hexo\bin\hexo generate
 os: Windows_NT 6.2.9200 win32 x64
 version:
   hexo: 2.4.5
@@ -13,44 +13,48 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 21:09:19.186 Configuration file load successfully
-[debug] 21:09:19.190 Version info checked successfully
-[debug] 21:09:19.239 Loading database.
-[debug] 21:09:19.278 Script load successfully: fancybox.js
-[debug] 21:09:19.302 Theme layout loaded
-[debug] 21:09:19.323 Theme configuration loaded
-[debug] 21:09:19.326 Processed: _drafts/hello-world.md
-[debug] 21:09:19.326 Processed: _drafts/indexhtml.md
-[debug] 21:09:19.344 Theme source loaded
-[debug] 21:09:19.344 Processed: CNAME
-[debug] 21:09:19.347 Theme language files loaded
-[debug] 21:09:19.362 Processed: about/index.md
-[debug] 21:09:19.363 Processed: response/index.md
-[debug] 21:09:19.372 Processed: _posts/2014-03-02-process.md
-[debug] 21:09:19.372 Processed: _posts/2014-03-02-standards.md
-[debug] 21:09:19.372 Processed: _posts/2014-03-02-technology.md
-[debug] 21:09:19.372 Processed: _posts/2014-03-02-wireless.md
-[debug] 21:09:19.372 Processed: _posts/hello-world.md
-[debug] 21:09:19.376 Cache saved
-[info] 21:09:19.404 Hexo is running at localhost:4000/. Press Ctrl+C to stop.
-[debug] 21:09:21.592 Render page: response/index.html
-[debug] 21:09:22.616 Render category: categories/process/
-[debug] 21:09:24.804 Render page: response/index.html
-[debug] 21:09:25.725 Render category: categories/process/
-[debug] 21:09:26.278 Render page: response/index.html
-[debug] 21:09:27.237 Render page: response/index.html
-[debug] 21:09:27.239 Render page: response/index.html
-[debug] 21:09:27.239 Render page: response/index.html
-[debug] 21:09:27.242 Render page: response/index.html
-[debug] 21:09:27.983 Render category: categories/process/
-[debug] 21:09:28.323 Render page: response/index.html
-[debug] 21:09:29.150 Render category: categories/process/
-[debug] 21:09:30.223 Render page: about/index.html
-[debug] 21:09:32.113 Render category: categories/wireless/
-[debug] 21:09:34.707 Render page: response/index.html
-[debug] 21:09:35.488 Render category: categories/process/
-[delete] 21:10:19.706 Source: response\index.md
-[info] 21:10:19.709 unlinkDir Source: %s response
-[update] 21:10:19.724 Source: response\index.md
-[error] 21:10:19.725 Error: ENOENT, readdir 'D:\wamp\www\2014\tao-wai\source\response'
-Error: ENOENT, readdir 'D:\wamp\www\2014\tao-wai\source\response'
+[debug] 20:35:12.583 Configuration file load successfully
+[debug] 20:35:12.586 Version info checked successfully
+[debug] 20:35:12.634 Loading database.
+[debug] 20:35:12.695 Plugin loaded successfully: hexo-generator-feed
+[debug] 20:35:12.700 Script load successfully: fancybox.js
+[debug] 20:35:12.738 Theme layout loaded
+[debug] 20:35:12.770 Theme configuration loaded
+[debug] 20:35:12.789 Processed: _drafts/hello-world.md
+[debug] 20:35:12.789 Processed: _drafts/indexhtml.md
+[debug] 20:35:12.821 Processed: CNAME
+[debug] 20:35:12.889 Theme source loaded
+[debug] 20:35:12.899 Theme language files loaded
+[debug] 20:35:12.903 Processed: 404.html
+[debug] 20:35:12.908 Processed: README.md
+[debug] 20:35:12.911 Processed: about/index.md
+[debug] 20:35:12.912 Processed: response/index.md
+[debug] 20:35:12.929 Processed: _posts/2014-03-02-process.md
+[debug] 20:35:12.929 Processed: _posts/2014-03-02-standards.md
+[debug] 20:35:12.929 Processed: _posts/2014-03-02-technology.md
+[debug] 20:35:12.934 Processed: _posts/2014-03-02-wireless.md
+[debug] 20:35:12.934 Processed: _posts/hello-world.md
+[debug] 20:35:13.018 Cache saved
+[info] 20:35:13.116 Files loaded in 0.416s
+[debug] 20:35:13.134 Render archive: archives/
+[debug] 20:35:13.135 Render archive: archives/2014/
+[debug] 20:35:13.135 Render archive: archives/2014/02/
+[debug] 20:35:13.135 Render archive: archives/2014/03/
+[debug] 20:35:13.135 Render category: categories/现状/
+[debug] 20:35:13.136 Render category: categories/规范/
+[debug] 20:35:13.136 Render category: categories/技术/
+[debug] 20:35:13.136 Render category: categories/无线/
+[debug] 20:35:13.136 Render category: categories/process/
+[debug] 20:35:13.136 Render index: 
+[debug] 20:35:13.136 Render page: README.html
+[debug] 20:35:13.136 Render page: about/index.html
+[debug] 20:35:13.136 Render page: response/index.html
+[debug] 20:35:13.136 Render post: 2014/03/02/wireless/
+[debug] 20:35:13.136 Render post: 2014/03/02/standards/
+[debug] 20:35:13.136 Render post: 2014/03/02/technology/
+[debug] 20:35:13.137 Render post: 2014/03/02/process/
+[debug] 20:35:13.137 Render post: 2014/02/23/hello-world/
+[debug] 20:35:13.137 Render tag: tags/标签/
+[debug] 20:35:13.137 Render tag: tags/说明/
+[error] 20:35:13.147 Error: ENOENT, open 'D:\wamp\www\2014\tao-wai\source\README'
+Error: ENOENT, open 'D:\wamp\www\2014\tao-wai\source\README'

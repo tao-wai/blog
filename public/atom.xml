@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Taobao Accessibility Group]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://taowai.github.io/"/>
-  <updated>2014-03-09T11:30:34.249Z</updated>
+  <updated>2014-03-09T12:50:47.280Z</updated>
   <id>http://taowai.github.io/</id>
   
   <author>
@@ -19,8 +19,27 @@
     <link href="http://taowai.github.io/2014/03/02/wireless/"/>
     <id>http://taowai.github.io/2014/03/02/wireless/</id>
     <published>2014-03-02T13:09:38.000Z</published>
-    <updated>2014-03-08T11:15:57.000Z</updated>
-    <content type="html"><![CDATA[<p>hello，this belong to  &quot;无线&quot;,注意要在categories里添加类别无线，layout默认为post，可以自定义</p>
+    <updated>2014-03-09T12:45:57.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="-">如何写博客</h3>
+<p>本博客基于hexo+git开发，<a href="http://zespia.tw/hexo" target="_blank">hexo</a>是一个基于Node.js的静态博客程序，听说其编译上百篇文字只需要几秒，出自台湾大学生<a href="https://twitter.com/tommy351" target="_blank">tommy351</a>之手，优点在于快，小，轻，关键是基于Node，顿时高大上起来有木有。主题是<a href="http://yangjian.me/workspace/introducing-pacman-theme/" target="_blank">pacman</a>，为什么选它因为当时百度搜索第一个，友情链接链接里有<a href="http://zespia.tw/hexo" target="_blank">hexo官方网站</a>。评论系统用的<a href="http://duoshuo.com/" target="_blank">多说</a>，大家最好注册一下账号然后我加进管理员，简介到此，下面看步骤：</p>
+<ol>
+<li>安装hexo:  npm install hexo -g</li>
+<li>git clone <a href="https://github.com/tao-wai/blog" target="_blank">https://github.com/tao-wai/blog</a></li>
+<li>cd 到库的根目录下执行，hexo init blog</li>
+<li>开始写博文， hexo new &quot;New Post&quot;(注意要在categories里添加类别，不然上面导航栏里找不到)</li>
+<li>写完本地查看 hexo server (127.0.0.1:4000)</li>
+<li><p>发布:hexo deploy(自动推送到git上，注意需要配置第二个rsa，参考<a href="http://omiga.org/blog/archives/2269" target="_blank">多个github帐号的SSH key切换</a>，建议host2为wai.github.com)</p>
+<blockquote>
+<p><strong>NOTE:</strong> </p>
+<ul>
+<li>如果大家碰到什么奇怪的错误，就先hexo clean,在hexo generate一下.</li>
+<li>写完了别忘了push一下blog，这样就不会把你的覆盖掉了。。</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h2 id="enjoy-it-">enjoy it!</h2>
 ]]></content>
     
     
@@ -33,8 +52,27 @@
     <link href="http://taowai.github.io/2014/03/02/standards/"/>
     <id>http://taowai.github.io/2014/03/02/standards/</id>
     <published>2014-03-02T12:56:06.000Z</published>
-    <updated>2014-03-08T11:15:08.000Z</updated>
-    <content type="html"><![CDATA[<p>hello，this belong to  &quot;规范&quot;,注意要在categories里添加类别规范，layout默认为post，可以自定义</p>
+    <updated>2014-03-09T12:45:38.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="-">如何写博客</h3>
+<p>本博客基于hexo+git开发，<a href="http://zespia.tw/hexo" target="_blank">hexo</a>是一个基于Node.js的静态博客程序，听说其编译上百篇文字只需要几秒，出自台湾大学生<a href="https://twitter.com/tommy351" target="_blank">tommy351</a>之手，优点在于快，小，轻，关键是基于Node，顿时高大上起来有木有。主题是<a href="http://yangjian.me/workspace/introducing-pacman-theme/" target="_blank">pacman</a>，为什么选它因为当时百度搜索第一个，友情链接链接里有<a href="http://zespia.tw/hexo" target="_blank">hexo官方网站</a>。评论系统用的<a href="http://duoshuo.com/" target="_blank">多说</a>，大家最好注册一下账号然后我加进管理员，简介到此，下面看步骤：</p>
+<ol>
+<li>安装hexo:  npm install hexo -g</li>
+<li>git clone <a href="https://github.com/tao-wai/blog" target="_blank">https://github.com/tao-wai/blog</a></li>
+<li>cd 到库的根目录下执行，hexo init blog</li>
+<li>开始写博文， hexo new &quot;New Post&quot;(注意要在categories里添加类别，不然上面导航栏里找不到)</li>
+<li>写完本地查看 hexo server (127.0.0.1:4000)</li>
+<li><p>发布:hexo deploy(自动推送到git上，注意需要配置第二个rsa，参考<a href="http://omiga.org/blog/archives/2269" target="_blank">多个github帐号的SSH key切换</a>，建议host2为wai.github.com)</p>
+<blockquote>
+<p><strong>NOTE:</strong> </p>
+<ul>
+<li>如果大家碰到什么奇怪的错误，就先hexo clean,在hexo generate一下.</li>
+<li>写完了别忘了push一下blog，这样就不会把你的覆盖掉了。。</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h2 id="enjoy-it-">enjoy it!</h2>
 ]]></content>
     
     
@@ -47,8 +85,27 @@
     <link href="http://taowai.github.io/2014/03/02/technology/"/>
     <id>http://taowai.github.io/2014/03/02/technology/</id>
     <published>2014-03-02T12:55:57.000Z</published>
-    <updated>2014-03-08T11:15:20.000Z</updated>
-    <content type="html"><![CDATA[<p>hello，this belong to  &quot;技术&quot;,注意要在categories里添加类别技术，layout默认为post，可以自定义</p>
+    <updated>2014-03-09T12:45:52.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="-">如何写博客</h3>
+<p>本博客基于hexo+git开发，<a href="http://zespia.tw/hexo" target="_blank">hexo</a>是一个基于Node.js的静态博客程序，听说其编译上百篇文字只需要几秒，出自台湾大学生<a href="https://twitter.com/tommy351" target="_blank">tommy351</a>之手，优点在于快，小，轻，关键是基于Node，顿时高大上起来有木有。主题是<a href="http://yangjian.me/workspace/introducing-pacman-theme/" target="_blank">pacman</a>，为什么选它因为当时百度搜索第一个，友情链接链接里有<a href="http://zespia.tw/hexo" target="_blank">hexo官方网站</a>。评论系统用的<a href="http://duoshuo.com/" target="_blank">多说</a>，大家最好注册一下账号然后我加进管理员，简介到此，下面看步骤：</p>
+<ol>
+<li>安装hexo:  npm install hexo -g</li>
+<li>git clone <a href="https://github.com/tao-wai/blog" target="_blank">https://github.com/tao-wai/blog</a></li>
+<li>cd 到库的根目录下执行，hexo init blog</li>
+<li>开始写博文， hexo new &quot;New Post&quot;(注意要在categories里添加类别，不然上面导航栏里找不到)</li>
+<li>写完本地查看 hexo server (127.0.0.1:4000)</li>
+<li><p>发布:hexo deploy(自动推送到git上，注意需要配置第二个rsa，参考<a href="http://omiga.org/blog/archives/2269" target="_blank">多个github帐号的SSH key切换</a>，建议host2为wai.github.com)</p>
+<blockquote>
+<p><strong>NOTE:</strong> </p>
+<ul>
+<li>如果大家碰到什么奇怪的错误，就先hexo clean,在hexo generate一下.</li>
+<li>写完了别忘了push一下blog，这样就不会把你的覆盖掉了。。</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h2 id="enjoy-it-">enjoy it!</h2>
 ]]></content>
     
     
@@ -61,12 +118,31 @@
   </entry>
   
   <entry>
-    <title><![CDATA[try process]]></title>
+    <title><![CDATA[process]]></title>
     <link href="http://taowai.github.io/2014/03/02/process/"/>
     <id>http://taowai.github.io/2014/03/02/process/</id>
     <published>2014-03-02T12:51:11.000Z</published>
-    <updated>2014-03-08T11:15:45.000Z</updated>
-    <content type="html"><![CDATA[<p>hello，this belong to  &quot;现状&quot;,注意要在categories里添加类别现状，layout默认为post，可以自定义</p>
+    <updated>2014-03-09T12:45:27.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="-">如何写博客</h3>
+<p>本博客基于hexo+git开发，<a href="http://zespia.tw/hexo" target="_blank">hexo</a>是一个基于Node.js的静态博客程序，听说其编译上百篇文字只需要几秒，出自台湾大学生<a href="https://twitter.com/tommy351" target="_blank">tommy351</a>之手，优点在于快，小，轻，关键是基于Node，顿时高大上起来有木有。主题是<a href="http://yangjian.me/workspace/introducing-pacman-theme/" target="_blank">pacman</a>，为什么选它因为当时百度搜索第一个，友情链接链接里有<a href="http://zespia.tw/hexo" target="_blank">hexo官方网站</a>。评论系统用的<a href="http://duoshuo.com/" target="_blank">多说</a>，大家最好注册一下账号然后我加进管理员，简介到此，下面看步骤：</p>
+<ol>
+<li>安装hexo:  npm install hexo -g</li>
+<li>git clone <a href="https://github.com/tao-wai/blog" target="_blank">https://github.com/tao-wai/blog</a></li>
+<li>cd 到库的根目录下执行，hexo init blog</li>
+<li>开始写博文， hexo new &quot;New Post&quot;(注意要在categories里添加类别，不然上面导航栏里找不到)</li>
+<li>写完本地查看 hexo server (127.0.0.1:4000)</li>
+<li><p>发布:hexo deploy(自动推送到git上，注意需要配置第二个rsa，参考<a href="http://omiga.org/blog/archives/2269" target="_blank">多个github帐号的SSH key切换</a>，建议host2为wai.github.com)</p>
+<blockquote>
+<p><strong>NOTE:</strong> </p>
+<ul>
+<li>如果大家碰到什么奇怪的错误，就先hexo clean,在hexo generate一下.</li>
+<li>写完了别忘了push一下blog，这样就不会把你的覆盖掉了。。</li>
+</ul>
+</blockquote>
+</li>
+</ol>
+<hr>
+<h2 id="enjoy-it-">enjoy it!</h2>
 ]]></content>
     
     
