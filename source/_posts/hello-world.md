@@ -4,4 +4,4 @@ tags:
 categories: process
 ---
 
-Welcome to [Hexo](http://zespia.tw/hexo)! This is your very first post. Check [documentation](http://zespia.tw/hexo/docs) to learn how to use.
+欢迎来到阿里无障碍小组博客，如果能帮到你，将是我们莫大的荣幸。
